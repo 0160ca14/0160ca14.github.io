@@ -21,7 +21,7 @@ export const siteConfig: SiteConfig = {
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
-			text: "旭", // Credit text to be displayed
+			text: "旭 - くなどなぎ", // Credit text to be displayed
 			url: "https://www.pixiv.net/en/artworks/136268067", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
@@ -73,6 +73,11 @@ export const profileConfig: ProfileConfig = {
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/0160ca14",
+		},
+		{
+			name: "Discord",
+			icon: "fa6-brands:discord",
+			url: "https://discord.com/users/781511743867977761",
 		},
 	],
 };
