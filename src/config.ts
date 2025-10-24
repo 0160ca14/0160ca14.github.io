@@ -21,8 +21,8 @@ export const siteConfig: SiteConfig = {
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
-			text: "風景壁紙📌202510", // Credit text to be displayed
-			url: "https://www.pixiv.net/en/artworks/136576132", // (Optional) URL link to the original artwork or artist's page
+			text: "旭", // Credit text to be displayed
+			url: "https://www.pixiv.net/en/artworks/136268067", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
@@ -54,8 +54,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Lorem Ipsum",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	name: "0160ca14",
+	bio: "I post English write-ups here...",
 	links: [
 		{
 			name: "Twitter",
@@ -72,8 +72,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
+			url: "https://github.com/0160ca14",
 		},
+		{
+			name: "Discord",
+			icon: "fa6-brands:discord",
+			url: "https://discord.com/users/781511743867977761",
+		}
 	],
 };
 
