@@ -1,8 +1,8 @@
 ---
-title: PicoCTF Walkthrough: Part 5
+title: "PicoCTF Walkthrough: Part 1"
 published: 2025-10-30
 tags: [Reverse]
-category: Write Up
+category: Write-ups
 draft: false
 ---
 
