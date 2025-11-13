@@ -1,6 +1,6 @@
 ---
 title: "PicoCTF Walkthrough: Part 1"
-published: 2025-11-1
+published: 2025-11-01
 tags: [Reverse]
 category: Write-ups
 draft: false
