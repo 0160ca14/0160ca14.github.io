@@ -1,22 +1,13 @@
 ---
 title: "PicoCTF Walkthrough: Part 1"
-published: 2025-10-30
-tags: [Reverse]
+published: 2025-11-1
+tags: [Reverse Engineering]
 category: Write-ups
 draft: false
 ---
 
-# This Article is a Draft
+This is my first write-up in the Reverse Engineering category. There may be some mistakes, and I hope readers will be understanding.
 
-This article is currently in a draft state and is not published. Therefore, it will not be visible to the general audience. The content is still a work in progress and may require further editing and review.
+This post covers some of the easiest Reverse Engineering challenges on picoCTF. If you are a reverse-engineering expert and find this post too simple, feel free to skip it and check out my other, more challenging write-ups.
 
-When the article is ready for publication, you can update the "draft" field to "false" in the Frontmatter:
-
-```markdown
----
-title: Draft Example
-published: 2024-01-11T04:40:26.381Z
-tags: [Markdown, Blogging, Demo]
-category: Examples
-draft: false
----
+## Flag Hunters 
